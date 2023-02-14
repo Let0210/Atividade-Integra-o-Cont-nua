@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Atividade-Integra-o-Cont-nua/static/css/main.2462828c.css",
+    "main.js": "/Atividade-Integra-o-Cont-nua/static/js/main.f6701c21.js",
+    "index.html": "/Atividade-Integra-o-Cont-nua/index.html",
+    "main.2462828c.css.map": "/Atividade-Integra-o-Cont-nua/static/css/main.2462828c.css.map",
+    "main.f6701c21.js.map": "/Atividade-Integra-o-Cont-nua/static/js/main.f6701c21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2462828c.css",
+    "static/js/main.f6701c21.js"
+  ]
+}
